@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Aman Raj</h1>
 <h3 align="center">An ardent fullstack web developer dedicated to crafting seamless user experiences across both frontend and backend technologies. Passionate about integrating innovative solutions that elevate functionality and usability. Committed to continuous learning and staying updated with the latest advancements in web development.</h3>
 
- <img align="center" alt="coding" width="200" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
+
  
 <img align="right" alt="coding" width="200" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
