@@ -31,4 +31,3 @@
 
 <p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanrajput&show_icons=true&locale=en&layout=compact" alt="iamanrajput" /></p>
 
-<p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=iamanrajput&show_icons=true&locale=en" alt="iamanrajput" /></p>
