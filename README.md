@@ -29,6 +29,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/iamanrajput?theme=nord)</a> </p>
 
-<p><img align="left" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanrajput&show_icons=true&locale=en&layout=compact" alt="iamanrajput" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanrajput&show_icons=true&locale=en&layout=compact" alt="iamanrajput" /></p>
 
-<p>&nbsp;<img align="center" height="230" src="https://github-readme-stats.vercel.app/api?username=iamanrajput&show_icons=true&locale=en" alt="iamanrajput" /></p>
+<p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=iamanrajput&show_icons=true&locale=en" alt="iamanrajput" /></p>
