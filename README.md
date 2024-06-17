@@ -18,7 +18,7 @@
 ![line](https://ryandforrester.com/wp-content/uploads/2020/03/gray-line-png-7.png)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/iamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamanrajput" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/theamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamanrajput" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamanrajput" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamanrajput" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@iamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@iamanrajput" height="30" width="40" /></a>
