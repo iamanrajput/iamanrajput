@@ -5,7 +5,7 @@
  
 <img align="right" alt="coding" width="200" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
-- 📚 I’m currently working on **DelishDash-Fresh Food, Fast Delivery**
+- 📚 I’m currently working on **DelishDash-Fresh Food, Fast Delivery.**
 
 - 🌱 I’m currently learning **MERN stack development**
 
