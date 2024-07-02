@@ -7,7 +7,7 @@
 
 - 📚 I’m currently working on **DelishDash-Fresh Food, Fast Delivery.**
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning **MERN stack development.**
 
 - 👨‍💻 All of my coding profiles are available at [linktr.ee/aman.rajput](linktr.ee/aman.rajput)
 
