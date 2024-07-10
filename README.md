@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F7B07B&random=false&width=435&lines=Greetings%F0%9F%91%8B%2C" alt="Typing SVG" /></a>
 <h3 align="center">I'm Aman Raj, An ardent fullstack web developer dedicated to crafting seamless user experiences across both frontend and backend technologies. Passionate about integrating innovative solutions that elevate functionality and usability. Committed to continuous learning and staying updated with the latest advancements in web development.</h3>
 
-
+</br>
  
 <img align="right" alt="coding" width="200" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
@@ -9,24 +9,67 @@
 
 - 🌱 I’m currently learning **MERN stack development.**
 
-- 👨‍💻 All of my coding profiles are available at [linktr.ee/aman.rajput](linktr.ee/aman.rajput)
-
-- 📫 How to reach me **theamanrajput15@gmail.com**
-
 - 📄 Know about my experiences [https://amanrajcv.tiiny.site/](https://amanrajcv.tiiny.site/)
 
-![line](https://ryandforrester.com/wp-content/uploads/2020/03/gray-line-png-7.png)
-<h3 align="center">Connect with me:</h3>
+
+## 📫 How to Reach Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/theamanrajput" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:theamanrajput15@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+  <a href="https://t.me/the_amanrajput" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
+  </a>
+</div>
+
+## 🧑‍💻 Coding Profiles
+
 <p align="center">
-<a href="https://www.linkedin.com/in/theamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamanrajput" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamanrajput" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamanrajput" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@iamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@iamanrajput" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/iamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamanrajput" height="40" width="52" /></a>
+<a href="https://www.hackerrank.com/iamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamanrajput" height="40" width="52" /></a>
+<a href="https://www.hackerearth.com/@iamanrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@iamanrajput" height="40" width="52" /></a>
 </p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/iamanrajput?theme=nord)</a> </p>
+## 🛠 Languages and Tools
 
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanrajput&show_icons=true&locale=en&layout=compact" alt="iamanrajput" /></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" alt="CSS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+ <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="Photoshop logo" />
+</div>
+
+## 🖥️ LeetCode Profile
+
+<p align="center">  
+ 
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/iamanrajput?theme=nord)</a>
+</p>
+
+## 📊 GitHub Stats
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanrajput&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamanrajput" alt="GitHub streak stats" />
+</p>
+
 
