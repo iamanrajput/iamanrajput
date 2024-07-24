@@ -69,7 +69,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamanrajput" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=nishant-Tiwari24&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
 </p>
 
 
