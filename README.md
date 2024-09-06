@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack development.**
 
-- 📄 Know about my experiences [https://amanrajcv.tiiny.site/](https://amanrajcv.tiiny.site/)
+- 📄 Know about my experiences [my-portfolio-aman.vercel.app/](my-portfolio-aman.vercel.app/)
 
 
 ## 📫 How to Reach Me
