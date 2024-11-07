@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F7B07B&random=false&width=435&lines=Greetings%F0%9F%91%8B%2C" alt="Typing SVG" /></a>
-<h3 align="center">I'm Aman Raj, An ardent fullstack web developer dedicated to crafting seamless user experiences across both frontend and backend technologies. Passionate about integrating innovative solutions that elevate functionality and usability. Committed to continuous learning and staying updated with the latest advancements in web development........</h3>
+<h3 align="center">I'm Aman Raj, An ardent fullstack web developer dedicated to crafting seamless user experiences across both frontend and backend technologies. Passionate about integrating innovative solutions that elevate functionality and usability. Committed to continuous learning and staying updated with the latest advancements in web development...</h3>
 
 </br>
  
