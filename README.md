@@ -73,4 +73,4 @@
 </p>
 
 
-<h3>I've made all my repositories private and removed followers because I use this platform to securely store important projects and notes, not to share content that might get stolen. </h3>
+<h3>*I've made all my repositories private and removed followers because I use this platform to securely store important projects and notes, not to share content that might get stolen. </h3>
