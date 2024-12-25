@@ -67,10 +67,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanrajput&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=iamanrajput&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
 </p>
 
 
+<h3>I've made all my repositories private and removed followers because I use this platform to securely store important projects and notes, not to share content that might get stolen. </h3>
