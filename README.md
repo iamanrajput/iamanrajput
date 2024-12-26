@@ -73,4 +73,4 @@
 </p>
 
 
-<p>*I've most of my repositories private and removed followers because I use this platform to securely store important projects and notes, not to share content that might get stolen. </p>
+<p>*I've most of my repositories private and removed followers because I use this platform to securely store important projects and notes, not to share content that might get stolen.. </p>
