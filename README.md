@@ -71,6 +71,3 @@
   <img src="https://streak-stats.demolab.com/?user=iamanrajput&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
 </p>
-
-
-<p>*I've most of my repositories private and removed followers because I use this platform to securely store important projects and notes, not to share content that might get stolen.. </p>
